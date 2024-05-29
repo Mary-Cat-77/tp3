@@ -28,7 +28,7 @@
 ![Picture](https://github.com/Mary-Cat-77/tp3/blob/main/Diagram1.png)
 
 ## Диаграмму состояний для заказа
-![Picture](https://github.com/Mary-Cat-77/tp3/blob/main/Diagram2.png)
+
 
 
 ## Диаграмма последовательности для процесса заказа еды через приложение
