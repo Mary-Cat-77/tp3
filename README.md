@@ -35,5 +35,9 @@
 ![Picture](https://github.com/Mary-Cat-77/tp3/blob/main/Diagram3.png)
 
 
+## Диаграмма деятельности для описания процесса обработки заказа системой
+![Picture](https://github.com/Mary-Cat-77/tp3/blob/main/Diagram4.png)
+
+
 ## Диаграмма классов
 ![Picture](https://github.com/Mary-Cat-77/tp3/blob/main/Diagram5.png)
